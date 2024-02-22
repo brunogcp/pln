@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">Pandas</h3>
+  <h3 align="center">Pln</h3>
   <div>
   <a href="https://bgcp.vercel.app/article/a016bef5-08c6-45ab-94d2-01c6537cceaa">
   <img src="https://img.shields.io/badge/Download PDF (ENGLISH)-black?style=for-the-badge&logoColor=white&color=000000" alt="three.js" />
